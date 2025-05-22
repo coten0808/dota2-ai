@@ -28,6 +28,7 @@ A powerful, multilingual Dota 2 Discord bot that combines Google Gemini and Open
 - [x] Google Gemini 1.5 Pro（語意理解與自然語言生成）
 - [x] OpenDota API（拉取英雄數據 / 比賽紀錄）
 - [x] Hero alias 辨識支援中英文（`斧王`, `axe`, `ax`...）
+- [x] replit雲端架設 
 
 ---
 
