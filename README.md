@@ -32,9 +32,6 @@ A powerful, multilingual Dota 2 Discord bot that combines Google Gemini and Open
 
 ---
 
-## 🚀 快速啟動
+## 🚀 啟動流程
 
-### ✅ 安裝需求
-
-```bash
-pip install -r requirements.txt
+replit run bot.py
